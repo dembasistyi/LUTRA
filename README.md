@@ -50,13 +50,13 @@ Lutra/
 This main README gives you the project purpose. For implementation:
 
 - 🔧 [1. How to set up your environment](./readmes/1_environment.md)
-- 🧠 [2. How to fine-tune your LLaMA model with Unsloth](./readmes/2_model_training.md)
+- 🧠 [2. How to fine-tune your LLaMA model with Unsloth using GoogleColab](./readmes/2_model_training.md)
 - 🤖 [3. How to connect your model to a Telegram bot](./readmes/3_telegram_bot.md)
 
 ---
 
 ## 👨‍💻 Author
-Created with ❤️ by **Demian Basistyi**.
+Created with ❤️ by **Demian**.
 
 Feel free to use this repo in your own portfolio or learning process.
 
